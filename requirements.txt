@@ -1,4 +1,2 @@
-pickle
-streamlit 
 requests
 pandas
